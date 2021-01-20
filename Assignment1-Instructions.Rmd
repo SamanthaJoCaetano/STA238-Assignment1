@@ -14,7 +14,7 @@ library(openintro)
 
 # Instructions
 
-This is an individual assignment. You are expected to work on this independently. You are more than welcome to discuss ideas, code, concepts, etc. regarding this with your class mates. Please do not share your code or your text with your peers. It is expected that all code and written work should be written by yourself (unless they are taken from the materials provided in this course or a from a credible source which you have cited). Please note, this assignment is fairly open, so the context of most of the work compeleted here should not match your peers. 
+This is an individual assignment. You are expected to work on this independently. You are more than welcome to discuss ideas, code, concepts, etc. regarding this assignment with your class mates. Please do not share your code or your written text with your peers. It is expected that all code and written work should be written by yourself (unless they are taken from the materials provided in this course or are from a credible source which you have cited). Please note, this assignment is fairly open, so the context of most of the work completed here should not match your peers. 
 
 
 ## How do I hand in this assignment for the January 29th deadline ?
@@ -23,9 +23,15 @@ Your complete .Rmd file that you create for this assignment AND the resulting pd
 
 
 
-# Problem set grading
+# Assignment grading
 
-There are two parts to your problem set. One is largely theory-based and the other is more data analysis and communication/writing focused. We recommend you use a word processing software like Microsoft Word to check for grammar errors in your written work. Note: there can be issues copying from Word to R Markdown so it may be easier to write in this file first and then copy the text to Word. Then you can make any changes flagged in Word directly in this file.
+There are two parts to this assignment. One is largely theory-based and the other is more data analysis and communication/writing focused. We recommend you spellcheck and proofread your written work. We will be directly marking the pdf files, thus please ensure that your final submission looks as you want it to look before submitting it.
+
+As mentioned above, this assignment will be marked based on the output in the pdf submission. You must submit both the Rmd and pdf files for this assignment to receive full marks in terms of reproducible.
+
+This assignment will be graded based off the rubric available on the Assignment Quercus page (link: [https://q.utoronto.ca/courses/204754/assignments/541878](https://q.utoronto.ca/courses/204754/assignments/541878)). TAs will look over each section and select the appropriate grade for that section based off a coarse overview (one-time read over) of that section. Your assignment should be well understood to the average university level student after reading it once. I would suggest you make sure your document looks clean, asthetically pleasing, and has been proofread. You will be able to see the rubric grade for each section. There may be some comments/feedback provided (by the TAs) if the same issue seems to be arising in multiple sections, but you will likely receive no comments/feedback (due to the scaling of the class and marking).
+
+
 
 \newpage
 
@@ -34,7 +40,7 @@ There are two parts to your problem set. One is largely theory-based and the oth
 
 ### Description
 
-Assume you are an STA238 TA and you need to give a short tutorial on the Central Limit Theorem. In this question you will develop an exercise/sample question and provide a sample solution (similar to the exercises in the CLT slides/videos).   
+Assume you are an STA238 TA and you need to give a short tutorial on the Central Limit Theorem. In this part of the assignment you will develop an exercise/sample question and provide a sample solution (similar to the exercises in the CLT slides/videos provided in the Week 2 Module).   
 
 Write out a sample question/excerise which requires usage of the Central Limit Theorem to calculate the probability associated with (or finding a meaningful quantile of) the sample mean (or sum/total). Be sure that you make note of any assumptions and make sure the question is clear/well understood.
 
@@ -43,7 +49,7 @@ Now create a model solution to your exercise above. Your solution should be thor
 ### General Notes (for Part 1):
 - Grammar is *not* the main focus of the assessment, but it is important that you communicate in a clear and professional manner. I.e., no slang or emojis should appear.
 - Try to be creative with the context of the exercise, choose a topic that is interesting, important, relevant and appropriate. 
-- You may want to include a bibliography in this section (especially if you are looking up facts/background information regarding the topic).
+- You may want to include a bibliography in this section (especially if you are looking up facts/background information regarding the topic). If it is clear that you (or the reader) looked up something that is not common knowledge then you will lose points.  
 - Be specific. A good principle is to assume that your audience is not aware of the subject matter.
 
 
@@ -54,7 +60,7 @@ Now create a model solution to your exercise above. Your solution should be thor
 
 ### Description: 
 
-In this question you will create a "Data" Section of a report. This will consist of an exploratory data analysis, where you will summarize meaningful aspects about the data. Please find some data through either:
+In this question you will create a "Data" section of a report. This will consist of an exploratory data analysis, where you will summarize meaningful aspects about the data. Please find some data through either:
 
 1. The Toronto Open Data Portal (https://open.toronto.ca/) and download it via the opendatatoronto R package (https://sharlagelfand.github.io/opendatatoronto/).
 
@@ -77,25 +83,12 @@ Your data section should include the following:
 ### General Notes (for Part 2):
 - All tables/figures should be well labelled and clean.
 - Everything in Part 2 should be written in full sentences/paragraphs.
-- There should be no evidence that Part 2 is an assignment, I should be able to take a screenshot of this section and be able to paste it into a newspaper/blog.
-- There should be no raw code; output should be nicely formatted.
+- There should be no evidence that Part 2 is an assignment, I should be able to take a screenshot of this section and paste it into a newspaper/blog.
+- There should be no raw code. Any output should be nicely formatted.
 - You will also need a reference section. You should reference the data, any outside code/documentation and any ideas/concepts that are taken outside of the course. 
 - Note, we are not marking grammar, but we are looking for clarity. If you need help with writing there are resources posted on the Course Info>Resources page of Quercus.
 - Use full sentences.
 - Grammar is *not* the main focus of the assessment, but it is important that you communicate in a clear and professional manner. I.e., no slang or emojis should appear.
 - Be specific. Remember, you are selecting this data and the reader/marker may not be familiar with it. A good principle is to assume that your audience is not aware of the subject matter.
 - Remember to end with a conclusion. This means reiterating the key points from your writing.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
