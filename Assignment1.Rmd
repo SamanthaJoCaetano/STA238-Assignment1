@@ -1,0 +1,94 @@
+---
+title: "STA238 - Winter 2021"
+author: "[ADD YOUR NAME HERE - STUDENT NUMBER]"
+subtitle: Assignment 1
+output:
+  pdf_document: default
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(openintro)
+```
+
+
+# Part 1
+
+
+*Exercise: <Type your CLT Question here>*
+
+
+*Solution:* 
+
+<Type your answer here>
+
+```{r, include = TRUE}
+
+## It is recommended that you interlace your answer in 
+## Part 1b with some r code.  
+
+## You may need more R chunks and you may want to include plots.
+
+```
+
+<Type more of your answer here>
+
+
+
+\newpage
+
+# Part 2
+
+## Data
+
+<Type here a paragraph introducing the data, its context and the data collection process.>
+
+```{r, include = FALSE}
+
+# Here you can load in and clean the data (you may need to do the cleaning in a separate R script). 
+
+# You may need additional chunks, in case you want to include some of the cleaning output.
+
+```
+
+<Type here a summary of the cleaning process.>
+
+<Include a description of the important variables.> 
+
+```{r, include=FALSE}
+
+# Use this to calculate some summary measures. 
+
+```
+
+
+<Include a description of the numerical summaries. Remember you can use `r ` to use inline R code.>
+
+
+
+
+```{r, echo = TRUE}
+
+# Use this to create some plots. 
+
+```
+
+<Include a clear description of the plot(s). I would recommend one paragraph for each plot.> 
+
+All analysis for this report was programmed using `R version 4.0.2`. 
+
+
+## Bibliography
+
+1. Grolemund, G. (2014, July 16) *Introduction to R Markdown*. RStudio. [https://rmarkdown.rstudio.com/articles_intro.html](https://rmarkdown.rstudio.com/articles_intro.html). (Last Accessed: January 15, 2021) 
+
+2. Dekking, F. M., et al. (2005) *A Modern Introduction to Probability and Statistics: Understanding why and how.* Springer Science & Business Media.
+
+3.  Allaire, J.J., et. el. *References: Introduction to R Markdown*. RStudio. [https://rmarkdown.rstudio.com/docs/](https://rmarkdown.rstudio.com/docs/). (Last Accessed: January 15, 2021) 
+
+
+
+
+
+
+
